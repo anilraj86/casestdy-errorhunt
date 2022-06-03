@@ -12,10 +12,10 @@
     "serve": "^13.0.2"
   },
   "scripts": {
-    "start": "index.ejs",  
+    "start": "node index.ejs",  
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "aiswarya",
+  "author": "Anilraj",
   "license": "ISC"
   
 }
