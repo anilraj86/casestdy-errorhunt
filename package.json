@@ -17,5 +17,8 @@
     "start": "nodemon --exec babel-node app.js"
   },
   "author": "Anilraj",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/node": "^7.17.10"
+  }
 }
